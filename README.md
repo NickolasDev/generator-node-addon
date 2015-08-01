@@ -32,7 +32,7 @@ npm install -g generator-node-addon
 Finally, initiate the generator:
 
 ```bash
-yo node-addon
+yo node-addon myModule
 ```
 
 ### Getting To Know Yeoman
