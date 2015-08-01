@@ -1,0 +1,17 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.1",
+  "description": "<%= description %>",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start" : "node main.js",
+    "configure" : "node-gyp configure",
+    "make" : "node-gyp make"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.0.0"
+  }
+}
