@@ -1,4 +1,4 @@
-# generator-node-addon [![Build Status](https://secure.travis-ci.org/NickolasDev/generator-node-addon.png?branch=master)](https://travis-ci.org/NickolasDev/generator-node-addon)
+# generator-node-addon
 
 > [Yeoman](http://yeoman.io) generator
 
