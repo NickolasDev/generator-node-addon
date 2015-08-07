@@ -1,4 +1,4 @@
 #Run
 node-gyp configure
-node-gyp make
+node-gyp build
 node main.js
